@@ -1,4 +1,16 @@
 board/Position.java
  board.Position
+chess/Color.java
+ chess.Color
+board/Piece.java
+ board.Piece
+board/Board.java
+ board.Board
+chess/ChessPiece.java
+ chess.ChessPiece
+chess/ChessMatch.java
+ chess.ChessMatch
+UI.java
+ UI
 Main.java
  Main

@@ -1,10 +1,11 @@
 import board.Position;
+import chess.ChessMatch;
 
 public class Main {
     public static void main(String[] args){
-        Position position = new Position(3,5);
 
-        System.out.println(position);
+        ChessMatch chessMatch = new ChessMatch();
+        UI.printBoard(chessMatch.getPieces());
 
     }
 }
