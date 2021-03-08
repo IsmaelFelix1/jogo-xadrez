@@ -2,15 +2,19 @@ board/Position.java
  board.Position
 chess/Color.java
  chess.Color
-board/Piece.java
- board.Piece
-board/Board.java
- board.Board
-chess/ChessPiece.java
- chess.ChessPiece
-chess/ChessMatch.java
- chess.ChessMatch
 UI.java
  UI
+board/Piece.java
+ board.Piece
+chess/ChessPiece.java
+ chess.ChessPiece
+chess/pieces/Rook.java
+ chess.pieces.Rook
+board/Board.java
+ board.Board
+chess/pieces/King.java
+ chess.pieces.King
 Main.java
  Main
+chess/ChessMatch.java
+ chess.ChessMatch
